@@ -1,0 +1,17 @@
+.o-email-container {
+  max-width: 100%;
+}
+.o-input-login {
+  display: flex;
+  flex-direction: column;
+}
+.o-options-login {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.o-input-container {
+  height: 3rem;
+  margin: 1rem 0;
+}

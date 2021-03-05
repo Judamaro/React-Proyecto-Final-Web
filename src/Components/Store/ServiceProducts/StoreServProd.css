@@ -1,0 +1,12 @@
+.o-store-prodserv {
+  max-width: 40rem;
+}
+.o-options-buttons {
+  max-width: 100%;
+  margin: 0 4rem;
+  display: flex;
+  justify-content: center;
+}
+.o-list-table {
+  margin: 1rem 0;
+}

@@ -1,0 +1,11 @@
+.o-category-container {
+    max-width: 15rem;
+    width: 100%;
+    height: fit-content;
+    padding: 0.5rem 0rem;
+    text-align: left;
+    background-color: white;
+    box-shadow: 0px 8px 15px -3px rgba(0, 0, 0, 0.25);
+    border-radius: 0.5rem;
+    margin-right: 2rem;
+}

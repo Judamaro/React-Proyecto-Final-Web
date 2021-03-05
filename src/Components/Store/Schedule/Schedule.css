@@ -1,0 +1,22 @@
+.o-schedule-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.o-titles-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.o-hours-container {
+  margin-left: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: initial;
+}
+
+.o-hours {
+  margin-bottom: 1rem;
+}

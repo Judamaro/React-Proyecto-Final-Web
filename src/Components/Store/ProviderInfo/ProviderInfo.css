@@ -1,0 +1,41 @@
+.o-provider-container {
+  max-height: min-content;
+  max-width: 20rem;
+  width: 20rem;
+  min-width: 15rem;
+  background-color: white;
+  box-shadow: 0px 8px 15px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 0.5rem;
+  padding: 2rem 3rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: fit-content;
+  margin-right: 2rem;
+}
+.o-image-container {
+  max-width: 10rem;
+  height: 10rem;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.o-personal-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.o-buissnes-info {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: justify;
+  margin-top: 1rem;
+}
+
+.o-position-info {
+  margin-top: 2rem;
+}

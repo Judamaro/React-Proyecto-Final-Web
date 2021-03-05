@@ -1,0 +1,24 @@
+.o-store-page-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 3% 7%;
+}
+.o-store-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.o-reserve-store {
+  max-width: 50rem;
+  display: flex;
+  justify-content: center;
+}
+
+.o-body-store-container {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  flex-wrap: wrap;
+}

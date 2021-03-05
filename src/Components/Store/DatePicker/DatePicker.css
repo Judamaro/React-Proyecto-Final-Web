@@ -1,0 +1,13 @@
+.o-pickers-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.o-datePicker-container {
+  width: 100%;
+}
+
+.o-datepicker {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}

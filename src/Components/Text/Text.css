@@ -1,0 +1,30 @@
+.o-principal-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding-left: 1.1rem;
+}
+
+.o-content-text {
+  font-size: 1.2rem;
+  text-align: left;
+  margin: 0;
+}
+
+.o-light-text {
+  font-size: 1.05rem;
+  font-weight: lighter;
+  text-align: left;
+  margin: 0.5rem 0;
+}
+
+.o-category-text {
+  text-decoration: none;
+  color: #333333;
+  padding: 0.5rem 1.1rem;
+  border-bottom: 1px solid #00d4d8;
+  border-left: 3px solid transparent;
+}
+
+.o-category-text:hover {
+  border-left: 3px solid #00d4d8;
+}

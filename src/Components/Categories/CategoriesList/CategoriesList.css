@@ -1,0 +1,5 @@
+.o-category-list-container {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
